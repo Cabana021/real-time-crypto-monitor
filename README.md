@@ -98,8 +98,8 @@ Antes de tudo, certifique-se de ter o seguinte instalado:
 **1. Clone este repositório:**
 
 ```bash
-git clone https://github.com/Cabana021/automacao-linkedin.git
-cd automacao-linkedin
+git clone https://github.com/Cabana021/real-time-crypto-monitor
+cd real-time-crypto-monitor
 ```
 
 **2. Crie o arquivo de configuração .env (opcional, para customização):**
