@@ -1,0 +1,8 @@
+# banco de dados SQLite
+crypto_prices.db
+
+# __pycache__
+__pycache__/
+
+# .env 
+.env
